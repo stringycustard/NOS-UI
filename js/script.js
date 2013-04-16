@@ -15,7 +15,7 @@ $(document).ready(function() {
 	$('#inputfile').nosFormInputFile('Random Placeholder Text');
 
 	$('#select').nosFormSelect('Placeholder Text');
-	$('#select-alt').nosFormSelect('Placeholder Text', true);
+	$('#select-alt').nosFormSelect('ds Text', true);
 
 	$('#checkbox-form').find('input[type="checkbox"]').nosFormInputCheckbox();
 
